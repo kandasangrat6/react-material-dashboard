@@ -1,6 +1,7 @@
 {
-  "name": "react-material-dashboard",
-  "author": "DeviasIO",
+  "name": "book",
+  "author": "Kanda Sangrat",
+  "original-author": "DeviasIO",
   "licence": "MIT",
   "version": "1.0.0",
   "private": false,
