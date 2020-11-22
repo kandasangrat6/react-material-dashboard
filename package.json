@@ -5,7 +5,7 @@
   "licence": "MIT",
   "version": "1.0.0",
   "private": false,
-  "homepage": "/theme",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && rmdir /Q /S docs && move build docs",
