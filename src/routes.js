@@ -13,6 +13,7 @@ import SettingsView from 'src/views/settings/SettingsView';
 
 const routes = [
   {
+    basename: '/theme',
     path: 'app',
     element: <DashboardLayout />,
     children: [
